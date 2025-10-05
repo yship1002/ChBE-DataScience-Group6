@@ -8,4 +8,5 @@ dependencies:
   - ipykernel
   - jupyter
   - python=3.11
+  - openpyxl
 prefix: /Users/jyang872/anaconda3/envs/ChBE-project
